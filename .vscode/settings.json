@@ -1,0 +1,25 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-vscode.vscode-github-issue-notebooks",
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/*.crswap": false,
+        "**/Thumbs.db": false
+    },
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.formatOnPaste": true,
+    "editor.accessibilitySupport": "on",
+    "editor.allowVariableFonts": false,
+    "editor.allowVariableLineHeights": false,
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoIndent": "none",
+    "editor.autoIndentOnPaste": true,
+    "editor.codeActionWidget.includeNearbyQuickFixes": false,
+    "editor.codeLens": false,
+    "editor.codeActionWidget.showHeaders": false
+}
