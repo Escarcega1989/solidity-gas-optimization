@@ -1,6 +1,9 @@
 # Getting Started
 
+```python
     curl -L https://foundry.paradigm.xyz | bash
+
+```
     foundryup
     brew install libusb
 
