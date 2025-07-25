@@ -21,5 +21,8 @@
     "editor.autoIndentOnPaste": true,
     "editor.codeActionWidget.includeNearbyQuickFixes": false,
     "editor.codeLens": false,
-    "editor.codeActionWidget.showHeaders": false
+    "editor.codeActionWidget.showHeaders": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
 }
