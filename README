@@ -2,6 +2,8 @@
 
     curl -L https://foundry.paradigm.xyz | bash
 
+
+
  #Install Foundry
 
     foundryup
